@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T20:27:25.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jyowS0oGWowOTAh9yNL5" version="18.2.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-03T20:28:01.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="tX_LTC36Cob4OvabJ0c8" version="18.2.0" type="github" pages="3">
   <diagram id="5mnkRgFZIP5zxIZn5EAq" name="Predicate form">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -442,13 +442,13 @@
         <mxCell id="aitPdwf2Jzi1wzn-wvx--15" style="edgeStyle=none;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aitPdwf2Jzi1wzn-wvx--19" target="aitPdwf2Jzi1wzn-wvx--53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aitPdwf2Jzi1wzn-wvx--16" style="edgeStyle=none;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1" source="aitPdwf2Jzi1wzn-wvx--19" target="aitPdwf2Jzi1wzn-wvx--11">
+        <mxCell id="aitPdwf2Jzi1wzn-wvx--16" style="edgeStyle=none;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#000000;" edge="1" parent="1" source="aitPdwf2Jzi1wzn-wvx--19" target="aitPdwf2Jzi1wzn-wvx--11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aitPdwf2Jzi1wzn-wvx--17" style="edgeStyle=none;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aitPdwf2Jzi1wzn-wvx--19" target="aitPdwf2Jzi1wzn-wvx--29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aitPdwf2Jzi1wzn-wvx--18" style="edgeStyle=none;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=3;" edge="1" parent="1" source="aitPdwf2Jzi1wzn-wvx--19" target="aitPdwf2Jzi1wzn-wvx--22">
+        <mxCell id="aitPdwf2Jzi1wzn-wvx--18" style="edgeStyle=none;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="aitPdwf2Jzi1wzn-wvx--19" target="aitPdwf2Jzi1wzn-wvx--22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aitPdwf2Jzi1wzn-wvx--19" value="mv3" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#000000;" vertex="1" parent="1">
@@ -566,19 +566,6 @@
               <mxPoint x="310" y="210" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="aitPdwf2Jzi1wzn-wvx--55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;dashed=1;" edge="1" parent="1" source="aitPdwf2Jzi1wzn-wvx--57">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aitPdwf2Jzi1wzn-wvx--56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;dashed=1;" edge="1" parent="1" source="aitPdwf2Jzi1wzn-wvx--57">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aitPdwf2Jzi1wzn-wvx--57" value="Вложенность метавершин в метавершину" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="600" y="120" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
