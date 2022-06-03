@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T16:40:31.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="khlS_PmTFy9zRafoQoBx" version="18.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-03T20:26:57.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="waGNjgkDkYzxN5bJ4yvX" version="18.2.0" type="github" pages="2">
   <diagram id="5mnkRgFZIP5zxIZn5EAq" name="Predicate form">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -185,8 +185,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="sf59IieOYiXJeI6Ol03e" name="doli">
-    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+  <diagram id="sf59IieOYiXJeI6Ol03e" name="raw doli">
+    <mxGraphModel dx="782" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="CZFq-tbUOs4MR2IKkpxn-0" />
         <mxCell id="CZFq-tbUOs4MR2IKkpxn-1" parent="CZFq-tbUOs4MR2IKkpxn-0" />
