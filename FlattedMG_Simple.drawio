@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T16:36:41.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rDuSt8Z6mTMC4kwf4-UR" version="18.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-03T16:40:31.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="khlS_PmTFy9zRafoQoBx" version="18.2.0" type="github" pages="2">
   <diagram id="5mnkRgFZIP5zxIZn5EAq" name="Predicate form">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -367,6 +367,19 @@
               <mxPoint x="310" y="210" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IPwqQbL-svFpkRJ7DrEi-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;dashed=1;" edge="1" parent="CZFq-tbUOs4MR2IKkpxn-1" source="IPwqQbL-svFpkRJ7DrEi-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPwqQbL-svFpkRJ7DrEi-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;dashed=1;" edge="1" parent="CZFq-tbUOs4MR2IKkpxn-1" source="IPwqQbL-svFpkRJ7DrEi-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPwqQbL-svFpkRJ7DrEi-0" value="Вложенность метавершин в метавершину" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="CZFq-tbUOs4MR2IKkpxn-1">
+          <mxGeometry x="600" y="120" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
