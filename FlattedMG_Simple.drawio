@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T22:02:55.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SQx0dvpOnsKtwogzUsKm" version="19.0.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-05T22:15:14.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="m_FcyzWlmsv65bbe2KL9" version="19.0.0" type="github" pages="5">
   <diagram id="5mnkRgFZIP5zxIZn5EAq" name="Predicate form">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -790,7 +790,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Vt3bmz9o9e39zVxD0TC5" name="Flatten graph">
-    <mxGraphModel dx="782" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -994,6 +994,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="660" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-FgvFdbLbKYn9DzX_jjN-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;dashed=1;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="tAggo1eCIUw3v1R1VHb9-65" target="MtXpecwCG83YEkUtgdbK-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tAggo1eCIUw3v1R1VHb9-65" value="mv0" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="310" y="640" width="60" height="40" as="geometry" />
