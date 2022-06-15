@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T16:00:58.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="bXtLmKLegvl9CQ12wDHL" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-15T16:01:07.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="y_t2I4NpRfJBsvryX-xF" version="20.0.1" type="github" pages="2">
   <diagram id="Fa4nZYaR2a0glFOzJW1c" name="MDFS">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -176,7 +176,7 @@
         <mxCell id="QV3drRUGrnjepC4VBnNq-17" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="480" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QV3drRUGrnjepC4VBnNq-18" value="i = 0;&lt;br&gt;mt = [][]" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QV3drRUGrnjepC4VBnNq-18" value="i = 0;&lt;br&gt;mt = [[]]" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QV3drRUGrnjepC4VBnNq-19" value="i = 0, len(ev); 1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
