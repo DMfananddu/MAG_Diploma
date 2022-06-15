@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T12:50:36.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Mz_8FrVLMCjpg1Y0Q58c" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T13:00:51.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="gNPeBRjPm7Yi4QK5qCU9" version="20.0.1" type="github">
   <diagram id="Fa4nZYaR2a0glFOzJW1c" name="Page-1">
     <mxGraphModel dx="782" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
             <mxPoint x="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YuWTMLX5p2OOOxLuSh0_-8" value="vem = []; mg = исходный метаграф" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="YuWTMLX5p2OOOxLuSh0_-8" value="vem = []" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="320" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YuWTMLX5p2OOOxLuSh0_-13" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YuWTMLX5p2OOOxLuSh0_-11" target="YuWTMLX5p2OOOxLuSh0_-14">
@@ -42,16 +42,6 @@
         <mxCell id="YuWTMLX5p2OOOxLuSh0_-14" value="vem.append(ev)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="320" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YuWTMLX5p2OOOxLuSh0_-17" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;" edge="1" parent="1" source="YuWTMLX5p2OOOxLuSh0_-15" target="YuWTMLX5p2OOOxLuSh0_-18">
-          <mxGeometry x="-0.931" y="-10" relative="1" as="geometry">
-            <mxPoint x="320" y="50" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="550" />
-              <mxPoint x="280" y="50" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YuWTMLX5p2OOOxLuSh0_-23" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;" edge="1" parent="1" source="YuWTMLX5p2OOOxLuSh0_-15" target="YuWTMLX5p2OOOxLuSh0_-35">
           <mxGeometry x="-0.8947" y="10" relative="1" as="geometry">
             <mxPoint x="440" y="250" as="targetPoint" />
@@ -59,6 +49,11 @@
               <mxPoint x="480" y="550" />
               <mxPoint x="480" y="250" />
             </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuWTMLX5p2OOOxLuSh0_-39" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;" edge="1" parent="1" source="YuWTMLX5p2OOOxLuSh0_-15" target="YuWTMLX5p2OOOxLuSh0_-38">
+          <mxGeometry x="-0.5" y="-20" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -73,13 +68,13 @@
         <mxCell id="YuWTMLX5p2OOOxLuSh0_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;" edge="1" parent="1" source="YuWTMLX5p2OOOxLuSh0_-18" target="YuWTMLX5p2OOOxLuSh0_-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YuWTMLX5p2OOOxLuSh0_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=16;" edge="1" parent="1" source="YuWTMLX5p2OOOxLuSh0_-18">
+        <mxCell id="YuWTMLX5p2OOOxLuSh0_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YuWTMLX5p2OOOxLuSh0_-18" target="YuWTMLX5p2OOOxLuSh0_-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="660" as="targetPoint" />
             <Array as="points">
               <mxPoint x="520" y="50" />
-              <mxPoint x="520" y="620" />
-              <mxPoint x="380" y="620" />
+              <mxPoint x="520" y="720" />
+              <mxPoint x="380" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -99,7 +94,10 @@
           <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YuWTMLX5p2OOOxLuSh0_-37" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="320" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YuWTMLX5p2OOOxLuSh0_-38" value="MDFS(ev)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
